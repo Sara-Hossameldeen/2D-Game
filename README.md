@@ -34,11 +34,11 @@ The game demonstrates efficient logic handling, smooth gameplay, and interactive
 - Game-over conditions:
   - Player hit by enemies or lasers
  
-    ## Technologies Used
+ ## Technologies Used
 - C++
 - ASCII arts
 
-    ## Screenshots
+ ## Screenshots
   <img src="https://github.com/user-attachments/assets/e893be1b-7a1f-485c-a271-b183402a02ae" />
   <img src="https://github.com/user-attachments/assets/87604b11-4a90-4582-88d7-4cb15f6073b4" />
   <img src="https://github.com/user-attachments/assets/38d1ac97-0239-454c-ac88-f1e97f754541" />
